@@ -1,10 +1,22 @@
-# SITC_EXIOBASE_Line_Item_Classification
+<img width="1504" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/d7c00dea-f731-40aa-b96b-56b93afa15c6"># SITC_EXIOBASE_Line_Item_Classification
 BERT-based multi-label text classifier for SITC &amp; EXIOBASE datasets, streamlining item description labeling
 
 This project centers on the development of an automatic multi-label text classification system using BERT transformers. The system is designed to predict labels for item descriptions from a vast dataset, addressing operational challenges related to line-item classification for individual products within the Standard International Trade Classification (SITC) and the global, comprehensive Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT) known as EXIOBASE.
 
 This system not only includes the model itself but also a user-friendly front-end interface built with React.js. Additionally, a responsive backend powered by Flask was created to enable seamless interactions with the trained model.
 
+
+## Exiobase Country Table Classification
+<img width="1504" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/c5d0d9be-5511-4f69-bb7b-51594a0e5f34">
+
+## Exiobase Table Classification
+<img width="1491" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/1e7c90d6-16c1-46b2-b9b6-dc3667fedde9">
+
+## SITC Table Classification
+<img width="1491" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/dc233cba-b9e6-4194-a233-dcea8d272f32">
+
+## Auto classify function requires csv file input
+<img width="224" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/3cf44146-051e-4df7-aa68-beffcd0d0cdb">
 
 
 # Flask backend, React frontend
