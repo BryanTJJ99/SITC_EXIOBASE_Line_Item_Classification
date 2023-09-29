@@ -1,0 +1,243 @@
+,Country list,Exiobase country
+0,Afghanistan,ROW-Asia
+1,Åland Islands,ROW-Europe
+2,Albania,ROW-Europe
+3,Algeria,ROW-Africa
+4,American Samoa,ROW-Americas
+5,Andorra,ROW-Europe
+6,Angola,ROW-Africa
+7,Anguilla,ROW-Americas
+8,Antarctica,
+9,Antigua and Barbuda,ROW-Americas
+10,Argentina,ROW-Americas
+11,Armenia,ROW-Europe
+12,Aruba,ROW-Americas
+13,Australia,Australia
+14,Austria,Austria
+15,Azerbaijan,ROW-Europe
+16,Bahamas,ROW-Americas
+17,Bahrain,ROW-Middle East
+18,Bangladesh,ROW-Asia
+19,Barbados,ROW-Americas
+20,Belarus,ROW-Europe
+21,Belgium,Belgium
+22,Belize,ROW-Americas
+23,Benin,ROW-Africa
+24,Bermuda,ROW-Americas
+25,Bhutan,ROW-Asia
+26,Bolivia,ROW-Americas
+27,Bosnia and Herzegovina,ROW-Europe
+28,Botswana,ROW-Africa
+29,Bouvet Island,
+30,Brazil,Brazil
+31,British Indian Ocean Territory,
+32,Brunei Darussalam,ROW-Asia
+33,Bulgaria,Bulgaria
+34,Burkina Faso,ROW-Africa
+35,Burundi,ROW-Africa
+36,Cambodia,ROW-Asia
+37,Cameroon,ROW-Africa
+38,Canada,Canada
+39,Cape Verde,ROW-Africa
+40,Cayman Islands,ROW-Americas
+41,Central African Republic,ROW-Africa
+42,Chad,ROW-Africa
+43,Chile,ROW-Americas
+44,China,China
+45,Christmas Island,ROW-Asia
+46,Cocos (Keeling) Islands,ROW-Asia
+47,Colombia,ROW-Americas
+48,Comoros,ROW-Africa
+49,Congo,ROW-Africa
+50,"Congo, The Democratic Republic of The",ROW-Africa
+51,Cook Islands,ROW-Asia
+52,Costa Rica,ROW-Americas
+53,Cote D'ivoire,ROW-Africa
+54,Croatia,Croatia
+55,Cuba,ROW-Americas
+56,Cyprus,Cyprus
+57,Czech Republic,Czech Republic
+58,Denmark,Denmark
+59,Djibouti,ROW-Africa
+60,Dominica,ROW-Americas
+61,Dominican Republic,ROW-Americas
+62,Ecuador,ROW-Americas
+63,Egypt,ROW-Africa
+64,El Salvador,ROW-Americas
+65,Equatorial Guinea,ROW-Africa
+66,Eritrea,ROW-Africa
+67,Estonia,Estonia
+68,Ethiopia,ROW-Africa
+69,Falkland Islands (Malvinas),ROW-Americas
+70,Faroe Islands,ROW-Europe
+71,Fiji,ROW-Asia
+72,Finland,Finland
+73,France,France
+74,French Guiana,ROW-Africa
+75,French Polynesia,ROW-Asia
+76,French Southern Territories,ROW-Asia
+77,Gabon,ROW-Africa
+78,Gambia,ROW-Africa
+79,Georgia,ROW-Europe
+80,Germany,Germany
+81,Ghana,ROW-Africa
+82,Gibraltar,ROW-Europe
+83,Greece,Greece
+84,Greenland,ROW-Europe
+85,Grenada,ROW-Americas
+86,Guadeloupe,ROW-Americas
+87,Guam,ROW-Americas
+88,Guatemala,ROW-Americas
+89,Guernsey,ROW-Europe
+90,Guinea,ROW-Africa
+91,Guinea-bissau,ROW-Africa
+92,Guyana,ROW-Americas
+93,Haiti,ROW-Americas
+94,Heard Island and Mcdonald Islands,ROW-Asia
+95,Holy See (Vatican City State),ROW-Europe
+96,Honduras,ROW-Americas
+97,Hong Kong,ROW-Asia
+98,Hungary,Hungary
+99,Iceland,ROW-Europe
+100,India,India
+101,Indonesia,Indonesia
+102,"Iran, Islamic Republic of",ROW-Middle East
+103,Iraq,ROW-Middle East
+104,Ireland,Ireland
+105,Isle of Man,ROW-Europe
+106,Israel,ROW-Middle East
+107,Italy,Italy
+108,Jamaica,ROW-Americas
+109,Japan,Japan
+110,Jersey,ROW-Europe
+111,Jordan,ROW-Middle East
+112,Kazakhstan,ROW-Asia
+113,Kenya,ROW-Africa
+114,Kiribati,ROW-Asia
+115,"Korea, Democratic People's Republic of",ROW-Asia
+116,"Korea, Republic of",Korea
+117,Kuwait,ROW-Middle East
+118,Kyrgyzstan,ROW-Asia
+119,Lao People's Democratic Republic,ROW-Asia
+120,Latvia,Latvia
+121,Lebanon,ROW-Middle East
+122,Lesotho,ROW-Africa
+123,Liberia,ROW-Africa
+124,Libya,ROW-Middle East
+125,Liechtenstein,ROW-Europe
+126,Lithuania,Lithuania
+127,Luxembourg,Luxembourg
+128,Macao,ROW-Asia
+129,"Macedonia, The Former Yugoslav Republic of",ROW-Europe
+130,Madagascar,ROW-Africa
+131,Malawi,ROW-Africa
+132,Malaysia,ROW-Asia
+133,Maldives,ROW-Asia
+134,Mali,ROW-Africa
+135,Malta,Malta
+136,Marshall Islands,ROW-Asia
+137,Martinique,ROW-Americas
+138,Mauritania,ROW-Africa
+139,Mauritius,ROW-Africa
+140,Mayotte,ROW-Africa
+141,Mexico,Mexico
+142,"Micronesia, Federated States of",ROW-Asia
+143,"Moldova, Republic of",ROW-Europe
+144,Monaco,ROW-Europe
+145,Mongolia,ROW-Asia
+146,Montenegro,ROW-Europe
+147,Montserrat,ROW-Europe
+148,Morocco,ROW-Africa
+149,Mozambique,ROW-Africa
+150,Myanmar,ROW-Asia
+151,Namibia,ROW-Africa
+152,Nauru,ROW-Asia
+153,Nepal,ROW-Asia
+154,Netherlands,Netherlands
+155,Netherlands Antilles,ROW-Americas
+156,New Caledonia,ROW-Asia
+157,New Zealand,ROW-Asia
+158,Nicaragua,ROW-Americas
+159,Niger,ROW-Africa
+160,Nigeria,ROW-Africa
+161,Niue,ROW-Asia
+162,Norfolk Island,ROW-Asia
+163,Northern Mariana Islands,ROW-Asia
+164,Norway,Norway
+165,Oman,ROW-Middle East
+166,Pakistan,ROW-Asia
+167,Palau,ROW-Asia
+168,Palestine,ROW-Middle East
+169,Panama,ROW-Americas
+170,Papua New Guinea,ROW-Asia
+171,Paraguay,ROW-Americas
+172,Peru,ROW-Americas
+173,Philippines,ROW-Asia
+174,Pitcairn,ROW-Asia
+175,Poland,Poland
+176,Portugal,Portugal
+177,Puerto Rico,ROW-Americas
+178,Qatar,ROW-Middle East
+179,Reunion,ROW-Africa
+180,Romania,Romania
+181,Russian Federation,Russia
+182,Rwanda,ROW-Africa
+183,Saint Helena,ROW-Americas
+184,Saint Kitts and Nevis,ROW-Americas
+185,Saint Lucia,ROW-Americas
+186,Saint Pierre and Miquelon,ROW-Americas
+187,Saint Vincent and The Grenadines,ROW-Americas
+188,Samoa,ROW-Asia
+189,San Marino,ROW-Europe
+190,Sao Tome and Principe,ROW-Africa
+191,Saudi Arabia,ROW-Middle East
+192,Senegal,ROW-Africa
+193,Serbia,ROW-Europe
+194,Seychelles,ROW-Africa
+195,Sierra Leone,ROW-Africa
+196,Singapore,ROW-Asia
+197,Slovakia,Slovakia
+198,Slovenia,Slovenia
+199,Solomon Islands,ROW-Asia
+200,Somalia,ROW-Africa
+201,South Africa,South Africa
+202,South Georgia and The South Sandwich Islands,ROW-Europe
+203,South Sudan,ROW-Africa
+204,Spain,Spain
+205,Sri Lanka,ROW-Asia
+206,Sudan,ROW-Africa
+207,Suriname,ROW-Americas
+208,Svalbard and Jan Mayen,ROW-Europe
+209,Swaziland,ROW-Africa
+210,Sweden,Sweden
+211,Switzerland,Switzerland
+212,Syrian Arab Republic,ROW-Middle East
+213,Taiwan (ROC),Taiwan
+214,Tajikistan,ROW-Asia
+215,"Tanzania, United Republic of",ROW-Africa
+216,Thailand,ROW-Asia
+217,Timor-leste,ROW-Asia
+218,Togo,ROW-Africa
+219,Tonga,ROW-Asia
+220,Trinidad and Tobago,ROW-Americas
+221,Tunisia,ROW-Africa
+222,Turkey,Turkey
+223,Turkmenistan,ROW-Asia
+224,Turks and Caicos Islands,ROW-Americas
+225,Tuvalu,ROW-Asia
+226,Uganda,ROW-Africa
+227,Ukraine,ROW-Europe
+228,United Arab Emirates,ROW-Middle East
+229,United Kingdom,United Kingdom
+230,United States,United States
+231,United States Minor Outlying Islands,ROW-Americas
+232,Uruguay,ROW-Americas
+233,Uzbekistan,ROW-Asia
+234,Vanuatu,ROW-Asia
+235,Mediterranean area,ROW-Europe
+236,Venezuela,ROW-Americas
+237,Vietnam,ROW-Asia
+238,"Virgin Islands, British",ROW-Americas
+239,"Virgin Islands, U.S.",ROW-Americas
+240,Yemen,ROW-Middle East
+241,Zambia,ROW-Africa

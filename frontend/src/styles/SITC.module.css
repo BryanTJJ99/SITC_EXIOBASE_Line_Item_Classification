@@ -1,0 +1,56 @@
+.divContainer {
+  background-color: #F4F4FB;
+  width: 100%;
+  min-height:100vh;
+  display: flex;
+  flex-direction: row;
+  margin-left:50vh;
+}
+.table{
+  margin-top: 10vh;
+  margin-left: 65vh;
+  margin-right: 10vh;
+  margin-bottom: 80vh;
+  animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.SITCCategoryBar{
+  margin-top: 10vh;
+  margin-left: 5vh;
+  margin-bottom: 100vh;
+  position: fixed;
+  animation: fadeIn 0.5s;
+}
+.itemCat1Display{
+  margin-top: 40vh;
+  margin-left: 5vh;
+  margin-right: 100vh;
+  margin-bottom: 150vh;
+  position: fixed;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.itemCat1Display::-webkit-scrollbar-track {
+  border:1px solid rgb(219, 199, 199);
+  padding: 2px 0;
+  background-color: #d3c9c9;
+}
+
+.itemCat1Display::-webkit-scrollbar {
+  width: 10px;
+}
+
+.itemCat1Display::-webkit-scrollbar-thumb {
+  border-radius: 25px;
+  box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #737272;
+  border: 1px solid #000;
+}
+
+.tableCell{
+  color: #67B1E4;
+}

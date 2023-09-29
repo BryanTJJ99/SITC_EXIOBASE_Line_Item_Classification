@@ -1,0 +1,30 @@
+.divContainer {
+    background-color: #F4F4FB;
+    width: 100%;
+    min-height:100vh;
+    display: flex;
+    flex-direction: row;
+    margin-left:50vh;
+  }
+
+
+.selectBar{
+  margin-top: 10vh;
+  margin-left: 5vh;
+  margin-bottom: 100vh;
+  position: fixed;
+  animation: fadeIn 0.5s;
+}
+
+.table{
+  margin-top: 10vh;
+  margin-left: 65vh;
+  margin-right: 10vh;
+  margin-bottom: 80vh;
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}

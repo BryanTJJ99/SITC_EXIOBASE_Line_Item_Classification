@@ -1,0 +1,82 @@
+[{
+    "Spend Category": "Agriculture, hunting, forestry and fishing",
+    "Exiobase Spend Category": ["Paddy rice", "Wheat", "Cereals grains nec", "Vegetables, fruit, nuts", "Oil seeds", "Sugar cane, sugar beet", "Plant based fibers", "Crops nec", "Cattle", "Pigs", "Poultry", "Meat animals nec", "Raw milk", "Wool, silk-worm cocoons", "Manure - conventional", "Manure - biogas", "Fish and other fishing products; services incidental of fishing"]
+}, {
+    "Spend Category": "Mining and quarrying",
+    "Exiobase Spend Category": ["Anthracite", "Coking Coal", "Other Bituminous Coal", "Sub-Bituminous Coal", "Patent Fuel", "Lignite/Brown Coal", "BKB/Peat Briquettes", "Peat", "Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.", "Crude petroleum and services related to crude oil extraction, excluding surveying", "Natural gas and services related to natural gas extraction, excluding surveying", "Natural Gas Liquids", "Other Hydrocarbons", "Uranium and thorium ores", "Iron ores", "Copper ores and concentrates", "Nickel ores and concentrates", "Aluminium ores and concentrates", "Precious metal ores and concentrates", "Lead, zinc and tin ores and concentrates", "Other non-ferrous metal ores and concentrates", "Stone", "Sand and clay"]
+}, {
+    "Spend Category": "Food, beverages and tobacco",
+    "Exiobase Spend Category": ["Products of meat cattle", "Products of meat pigs", "Products of meat poultry", "Meat products nec", "Products of vegetable oils and fats", "Dairy products", "Processed rice", "Sugar", "Food products nec", "Beverages", "Fish products", "Tobacco products", "Food waste for treatment: biogasification and land application", "Food waste for treatment: composting and land application", "Food waste for treatment: incineration", "Food waste for treatment: landfill"]
+}, {
+    "Spend Category": "Textiles and textile products",
+    "Exiobase Spend Category": ["Textiles", "Textiles waste for treatment: incineration", "Textiles waste for treatment: landfill", "Wearing apparel; furs"]
+}, {
+    "Spend Category": "Leather and footwear",
+    "Exiobase Spend Category": ["Leather and leather products"]
+}, {
+    "Spend Category": "Wood and wood products",
+    "Exiobase Spend Category": ["Wood and products of wood and cork (except furniture); articles of straw and plaiting materials", "Wood material fo treatment, reprocessing of secondary wood material into new wood material", "Wood waste for treatment: incineration", "Wood waste for treatment: landfill"]
+}, {
+    "Spend Category": "Pulp and paper",
+    "Exiobase Spend Category": ["Pulp", "Paper and paper products", "Printed matter and recorded media", "Secondary paper for treatment, re-processing of secondary paper to new paper"]
+}, {
+    "Spend Category": "Coke, refined petroleum and nuclear fuel",
+    "Exiobase Spend Category": ["Coke Oven Coke", "Gas Coke", "Coal Tar", "Charcoal", "Motor Gasoline", "Aviation Gasoline", "Gasoline Type Jet Fuel", "Kerosene Type Jet Fuel", "Kerosene", "Gas/Diesel Oil", "Heavy Fuel Oil", "Refinery Gas", "Liquefied Petroleum", "Refinery Feedstocks", "Ethane", "Naphtha", "White Spirit & SBP", "Lubricants", "Bitumen", "Paraffin Waxes", "Petroleum Coke", "Non-specified Petrol", "Nuclear fuel"]
+}, {
+    "Spend Category": "Chemicals and chemical products",
+    "Exiobase Spend Category": ["N-fertiliser", "P- and other fertiliser", "Chemicals nec"]
+}, {
+    "Spend Category": "Rubber and plastics",
+    "Exiobase Spend Category": ["Plastics, basic", "Plastic waste for treatment: incineration", "Plastic waste for treatment: landfill", "Rubber and plastic products"]
+}, {
+    "Spend Category": "Other non-metallic material",
+    "Exiobase Spend Category": ["Glass and glass products", "Secondary glass for treatment, re-processing of secondary glass into new glass", "Ceramic goods", "Bricks, tiles and construction products, in baked clay", "Cement, lime and plaster", "Ash for treatment, re-processing of ash into clinker", "Other non-metallic mineral products"]
+}, {
+    "Spend Category": "Basic metals and fabricated metal",
+    "Exiobase Spend Category": ["Basic iron and steel and of ferro-alloys and first products thereof", "Secondary steel for treatment, re-processing of secondary steel into new steel", "Precious metals", "Secondary precious metals for treatment, re-processing of secondary precious metals into new precious metals", "Aluminium and aluminium products", "Secondary aluminium for treatment, re-processing of secondary aluminium into new aluminium", "Lead, zinc and tin and products thereof", "Secondary lead for treatment, reprocessing of secondary lead into new lead", "Copper products", "Secondary copper for treatment, reprocessing of secondary copper into new copper", "Other non-ferrous metal products", "Secondary other non-ferrous metals for treatment, reprocessing of secondary other non-ferrous metals into new other non-ferrous metals", "Foundry work services", "Fabricated metal products, except machinery and equipment"]
+}, {
+    "Spend Category": "Machinery (not elsewhere classified)",
+    "Exiobase Spend Category": ["Machinery and equipment n.e.c.", "Office machinery and computers"]
+}, {
+    "Spend Category": "Electrical and optical equipment",
+    "Exiobase Spend Category": ["Electrical machinery and apparatus n.e.c.", "Radio, television and communication equipment and apparatus n.e.c.", "Medical, precision and optical instruments, watches and clocks"]
+}, {
+    "Spend Category": "Transport equipment",
+    "Exiobase Spend Category": ["Motor vehicles, trailers and semi-trailers", "Other transport equipment"]
+}, {
+    "Spend Category": "Manufacturing (not elsewhere classified)",
+    "Exiobase Spend Category": ["Furniture; other manufactured goods n.e.c.", "Secondary raw materials"]
+}, {
+    "Spend Category": "Construction",
+    "Exiobase Spend Category": ["Construction work", "Secondary construction material for treatment, re-processing of secondary construction material into new construction material"]
+}, {
+    "Spend Category": "Sale and repair of motor vehicles and motorcycles",
+    "Exiobase Spend Category": ["Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessories"]
+}, {
+    "Spend Category": "Wholesale trade (not elsewhere classified)",
+    "Exiobase Spend Category": ["Wholesale trade and commission trade services, except for motor vehicles and motorcycles"]
+}, {
+    "Spend Category": "Retail trade (not elsewhere classified)",
+    "Exiobase Spend Category": ["Retail trade services, except of motor vehicles and motor cycles", "Retail trade services of motor fuel"]
+}, {
+    "Spend Category": "Hotels and restaurants",
+    "Exiobase Spend Category": ["Hotel and restaurant services"]
+}, {
+    "Spend Category": "Inland transport",
+    "Exiobase Spend Category": ["Railway transportation services", "Other land transportation services", "Transportation services via pipeline"]
+}, {
+    "Spend Category": "Water transport",
+    "Exiobase Spend Category": ["Sea and coastal water transportation services"]
+}, {
+    "Spend Category": "Air transport",
+    "Exiobase Spend Category": ["Air transport services"]
+}, {
+    "Spend Category": "Other supporting and auxiliary transport",
+    "Exiobase Spend Category": ["Supporting and auxiliary transport services, travel agency services"]
+}, {
+    "Spend Category": "Post and telecommunications",
+    "Exiobase Spend Category": ["Post and telecommunications services"]
+}, {
+    "Spend Category": "Financial intermediation",
+    "Exiobase Spend Category": ["Financial intermediation services, except insurance and pension funding services", "Insurance and pension funding services, except compulsory social security services", "Supporting and auxil"]
+}]
