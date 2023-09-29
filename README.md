@@ -1,4 +1,4 @@
-<img width="1504" alt="image" src="https://github.com/BryanTJJ99/SITC_EXIOBASE_Line_Item_Classification/assets/67521352/d7c00dea-f731-40aa-b96b-56b93afa15c6"># SITC_EXIOBASE_Line_Item_Classification
+# SITC_EXIOBASE_Line_Item_Classification
 BERT-based multi-label text classifier for SITC &amp; EXIOBASE datasets, streamlining item description labeling
 
 This project centers on the development of an automatic multi-label text classification system using BERT transformers. The system is designed to predict labels for item descriptions from a vast dataset, addressing operational challenges related to line-item classification for individual products within the Standard International Trade Classification (SITC) and the global, comprehensive Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT) known as EXIOBASE.
